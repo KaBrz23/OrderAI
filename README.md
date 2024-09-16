@@ -4,7 +4,7 @@
 
 OrderAI
 
-## Nome completo e breve apresentação dos integrantes do Grupo (Atividade da qual ficou responsável no projeto);
+## Nome completo e breve apresentação dos integrantes do Grupo;
 
 Gabriel Augusto Fernandes - RM98986
 
