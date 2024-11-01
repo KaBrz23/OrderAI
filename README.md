@@ -30,7 +30,7 @@ Thomas Nícolas de Melo Mendonça - RM99832
 
 ## Link para vídeo apresentando a solução
 
-[Vídeo Solução OrderAI](https://youtu.be/4KSLkGzhJSc)
+[Vídeo Solução OrderAI](https://youtu.be/DDawF8NnAQU)
 
 ### Testar requisições no Postman
 
